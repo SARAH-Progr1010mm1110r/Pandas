@@ -2,6 +2,7 @@
 Perform various tasks using pandas to explore data in Python
 
 Perform the following for all relevant columns:
+
 1- Look at the DataFrame shape
 2- head
 3- tail
